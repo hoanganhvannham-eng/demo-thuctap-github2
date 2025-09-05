@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|d:\\documents\\thuctaphn\\demo-github\\1thuongmaidientu\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|solutionrelative:danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|solutionrelative:danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\baocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|solutionrelative:baocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\baocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{999E0208-1A20-45A4-9D59-ADA68DA94C72}|ThuongMaiDienTu.csproj|solutionrelative:baocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DangNhap.cs",
+              "RelativeToolTip": "DangNhap.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:43:09.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:43:04.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhSachKhachHang.cs",
+              "DocumentMoniker": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "DanhSachKhachHang.cs",
+              "ToolTip": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DanhSachKhachHang.cs",
+              "RelativeToolTip": "DanhSachKhachHang.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:42:49.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "DanhSachKhachHang.cs",
+              "ToolTip": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\DanhSachKhachHang.cs [Design]",
+              "RelativeToolTip": "DanhSachKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:42:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaoCaoKhachHang.cs",
+              "DocumentMoniker": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\BaoCaoKhachHang.cs",
+              "RelativeDocumentMoniker": "BaoCaoKhachHang.cs",
+              "ToolTip": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\BaoCaoKhachHang.cs",
+              "RelativeToolTip": "BaoCaoKhachHang.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:42:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaoCaoKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\BaoCaoKhachHang.cs",
+              "RelativeDocumentMoniker": "BaoCaoKhachHang.cs",
+              "ToolTip": "D:\\Documents\\ThucTapHN\\demo-github\\1ThuongMaiDienTu\\BaoCaoKhachHang.cs [Design]",
+              "RelativeToolTip": "BaoCaoKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:42:32.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

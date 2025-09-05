@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// thanh nguyen da o day 
 namespace ThuongMaiDienTu
 {
     public partial class BaoCaoKhachHang: Form

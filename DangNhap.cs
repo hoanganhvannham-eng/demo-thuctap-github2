@@ -53,7 +53,7 @@ namespace ThuongMaiDienTu
 
         private void btnthoat_Click(object sender, EventArgs e)
         {
-            DialogResult rs = MessageBox.Show("ban co muon thoat khong??.", "tieu de thoat",
+            DialogResult rs = MessageBox.Show("ban co muon thoat khong??////////////????????????.", "tieu de thoat",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (rs == DialogResult.Yes)
             {

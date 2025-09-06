@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-// kien beo
+// kien beo an cut
 
 namespace ThuongMaiDienTu
 {

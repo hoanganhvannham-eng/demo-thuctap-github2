@@ -67,7 +67,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(76, 71);
+            this.label1.Location = new System.Drawing.Point(68, 152);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(31, 17);
             this.label1.TabIndex = 2;
@@ -77,7 +77,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(76, 109);
+            this.label2.Location = new System.Drawing.Point(68, 190);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(60, 17);
             this.label2.TabIndex = 3;
@@ -87,7 +87,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(76, 145);
+            this.label3.Location = new System.Drawing.Point(68, 226);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(99, 17);
             this.label3.TabIndex = 4;
@@ -97,7 +97,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(76, 183);
+            this.label4.Location = new System.Drawing.Point(68, 264);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(60, 17);
             this.label4.TabIndex = 5;
@@ -107,7 +107,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(76, 223);
+            this.label5.Location = new System.Drawing.Point(68, 304);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(76, 17);
             this.label5.TabIndex = 6;
@@ -115,28 +115,28 @@
             // 
             // tbid
             // 
-            this.tbid.Location = new System.Drawing.Point(195, 71);
+            this.tbid.Location = new System.Drawing.Point(187, 152);
             this.tbid.Name = "tbid";
             this.tbid.Size = new System.Drawing.Size(200, 22);
             this.tbid.TabIndex = 8;
             // 
             // tbhoten
             // 
-            this.tbhoten.Location = new System.Drawing.Point(195, 109);
+            this.tbhoten.Location = new System.Drawing.Point(187, 190);
             this.tbhoten.Name = "tbhoten";
             this.tbhoten.Size = new System.Drawing.Size(200, 22);
             this.tbhoten.TabIndex = 9;
             // 
             // tbsodienthoai
             // 
-            this.tbsodienthoai.Location = new System.Drawing.Point(195, 145);
+            this.tbsodienthoai.Location = new System.Drawing.Point(187, 226);
             this.tbsodienthoai.Name = "tbsodienthoai";
             this.tbsodienthoai.Size = new System.Drawing.Size(200, 22);
             this.tbsodienthoai.TabIndex = 10;
             // 
             // tbdiachi
             // 
-            this.tbdiachi.Location = new System.Drawing.Point(195, 183);
+            this.tbdiachi.Location = new System.Drawing.Point(187, 264);
             this.tbdiachi.Name = "tbdiachi";
             this.tbdiachi.Size = new System.Drawing.Size(200, 22);
             this.tbdiachi.TabIndex = 11;
@@ -144,7 +144,7 @@
             // dpkngaysinh
             // 
             this.dpkngaysinh.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dpkngaysinh.Location = new System.Drawing.Point(195, 223);
+            this.dpkngaysinh.Location = new System.Drawing.Point(187, 304);
             this.dpkngaysinh.Name = "dpkngaysinh";
             this.dpkngaysinh.Size = new System.Drawing.Size(200, 25);
             this.dpkngaysinh.TabIndex = 12;
@@ -152,7 +152,7 @@
             // btnthem
             // 
             this.btnthem.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnthem.Location = new System.Drawing.Point(195, 270);
+            this.btnthem.Location = new System.Drawing.Point(187, 351);
             this.btnthem.Name = "btnthem";
             this.btnthem.Size = new System.Drawing.Size(75, 23);
             this.btnthem.TabIndex = 13;
@@ -163,7 +163,7 @@
             // btnsua
             // 
             this.btnsua.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnsua.Location = new System.Drawing.Point(320, 270);
+            this.btnsua.Location = new System.Drawing.Point(312, 351);
             this.btnsua.Name = "btnsua";
             this.btnsua.Size = new System.Drawing.Size(75, 23);
             this.btnsua.TabIndex = 14;
@@ -175,7 +175,7 @@
             // btnxoa
             // 
             this.btnxoa.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnxoa.Location = new System.Drawing.Point(460, 270);
+            this.btnxoa.Location = new System.Drawing.Point(452, 351);
             this.btnxoa.Name = "btnxoa";
             this.btnxoa.Size = new System.Drawing.Size(75, 23);
             this.btnxoa.TabIndex = 15;
@@ -190,7 +190,7 @@
             "1 – Khách vàng",
             "2 – Khách bạc",
             "3 – Khách đồng"});
-            this.cbloaikhachhang.Location = new System.Drawing.Point(460, 109);
+            this.cbloaikhachhang.Location = new System.Drawing.Point(452, 190);
             this.cbloaikhachhang.Name = "cbloaikhachhang";
             this.cbloaikhachhang.Size = new System.Drawing.Size(201, 24);
             this.cbloaikhachhang.TabIndex = 16;
@@ -198,7 +198,7 @@
             // btnhienthi
             // 
             this.btnhienthi.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnhienthi.Location = new System.Drawing.Point(586, 271);
+            this.btnhienthi.Location = new System.Drawing.Point(578, 352);
             this.btnhienthi.Name = "btnhienthi";
             this.btnhienthi.Size = new System.Drawing.Size(75, 23);
             this.btnhienthi.TabIndex = 17;
@@ -208,7 +208,7 @@
             // 
             // tbtimkiem
             // 
-            this.tbtimkiem.Location = new System.Drawing.Point(460, 177);
+            this.tbtimkiem.Location = new System.Drawing.Point(452, 258);
             this.tbtimkiem.Name = "tbtimkiem";
             this.tbtimkiem.Size = new System.Drawing.Size(201, 22);
             this.tbtimkiem.TabIndex = 18;
@@ -217,7 +217,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(457, 145);
+            this.label6.Location = new System.Drawing.Point(449, 226);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(207, 17);
             this.label6.TabIndex = 19;
@@ -226,7 +226,7 @@
             // btntimkiem
             // 
             this.btntimkiem.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btntimkiem.Location = new System.Drawing.Point(460, 220);
+            this.btntimkiem.Location = new System.Drawing.Point(452, 301);
             this.btntimkiem.Name = "btntimkiem";
             this.btntimkiem.Size = new System.Drawing.Size(97, 28);
             this.btntimkiem.TabIndex = 20;
@@ -248,7 +248,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(460, 76);
+            this.label8.Location = new System.Drawing.Point(452, 157);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(113, 17);
             this.label8.TabIndex = 22;
